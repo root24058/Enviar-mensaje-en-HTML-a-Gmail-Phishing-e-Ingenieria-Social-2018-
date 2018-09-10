@@ -2,6 +2,8 @@
 #evilmain v.2
 #echo por mrvalem
 #Github: https://github.com/mrbalem/EvilMail.git
+#youtube: https://www.youtube.com/channel/UC63XEZ0myuIxEH3ybYHn7AA
+#facebook: https://www.facebook.com/HackerMrvalem/
 
 dependencias() {  #verificando si el correo sendemail esta en SO.
 printf "[*] Comprovando requerimientos del sistema....!\n"
